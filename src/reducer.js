@@ -6,3 +6,7 @@ const reducer = combineReducers({
   comments,
   users
 });
+
+export {
+  reducer
+};
